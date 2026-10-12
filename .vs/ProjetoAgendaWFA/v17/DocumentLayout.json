@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgendaWFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37B708E7-771F-4FCB-8A0B-AFD08AC0A10C}|ProjetoAgendaWFA\\ProjetoAgendaWFA.csproj|c:\\users\\cavia\\onedrive\\documentos\\estudos\\c#\\projetoagendawfa\\projetoagendawfa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37B708E7-771F-4FCB-8A0B-AFD08AC0A10C}|ProjetoAgendaWFA\\ProjetoAgendaWFA.csproj|solutionrelative:projetoagendawfa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B708E7-771F-4FCB-8A0B-AFD08AC0A10C}|ProjetoAgendaWFA\\ProjetoAgendaWFA.csproj|c:\\users\\cavia\\onedrive\\documentos\\estudos\\c#\\projetoagendawfa\\projetoagendawfa\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B708E7-771F-4FCB-8A0B-AFD08AC0A10C}|ProjetoAgendaWFA\\ProjetoAgendaWFA.csproj|solutionrelative:projetoagendawfa\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B708E7-771F-4FCB-8A0B-AFD08AC0A10C}|ProjetoAgendaWFA\\ProjetoAgendaWFA.csproj|c:\\users\\cavia\\onedrive\\documentos\\estudos\\c#\\projetoagendawfa\\projetoagendawfa\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B708E7-771F-4FCB-8A0B-AFD08AC0A10C}|ProjetoAgendaWFA\\ProjetoAgendaWFA.csproj|solutionrelative:projetoagendawfa\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B708E7-771F-4FCB-8A0B-AFD08AC0A10C}|ProjetoAgendaWFA\\ProjetoAgendaWFA.csproj|c:\\users\\cavia\\onedrive\\documentos\\estudos\\c#\\projetoagendawfa\\projetoagendawfa\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B708E7-771F-4FCB-8A0B-AFD08AC0A10C}|ProjetoAgendaWFA\\ProjetoAgendaWFA.csproj|solutionrelative:projetoagendawfa\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B708E7-771F-4FCB-8A0B-AFD08AC0A10C}|ProjetoAgendaWFA\\ProjetoAgendaWFA.csproj|c:\\users\\cavia\\onedrive\\documentos\\estudos\\c#\\projetoagendawfa\\projetoagendawfa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B708E7-771F-4FCB-8A0B-AFD08AC0A10C}|ProjetoAgendaWFA\\ProjetoAgendaWFA.csproj|solutionrelative:projetoagendawfa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgendaWFA\\ProjetoAgendaWFA\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoAgendaWFA\\Form1.cs",
+              "ToolTip": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgendaWFA\\ProjetoAgendaWFA\\Form1.cs",
+              "RelativeToolTip": "ProjetoAgendaWFA\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwBYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T19:02:27.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contatos.cs",
+              "DocumentMoniker": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgendaWFA\\ProjetoAgendaWFA\\Contatos.cs",
+              "RelativeDocumentMoniker": "ProjetoAgendaWFA\\Contatos.cs",
+              "ToolTip": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgendaWFA\\ProjetoAgendaWFA\\Contatos.cs",
+              "RelativeToolTip": "ProjetoAgendaWFA\\Contatos.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:44:31.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgendaWFA\\ProjetoAgendaWFA\\Contato.cs",
+              "RelativeDocumentMoniker": "ProjetoAgendaWFA\\Contato.cs",
+              "ToolTip": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgendaWFA\\ProjetoAgendaWFA\\Contato.cs",
+              "RelativeToolTip": "ProjetoAgendaWFA\\Contato.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:41:19.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgendaWFA\\ProjetoAgendaWFA\\Data.cs",
+              "RelativeDocumentMoniker": "ProjetoAgendaWFA\\Data.cs",
+              "ToolTip": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgendaWFA\\ProjetoAgendaWFA\\Data.cs",
+              "RelativeToolTip": "ProjetoAgendaWFA\\Data.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:36:19.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgendaWFA\\ProjetoAgendaWFA\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoAgendaWFA\\Form1.cs",
+              "ToolTip": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgendaWFA\\ProjetoAgendaWFA\\Form1.cs [Projeto]",
+              "RelativeToolTip": "ProjetoAgendaWFA\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:34:38.941Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

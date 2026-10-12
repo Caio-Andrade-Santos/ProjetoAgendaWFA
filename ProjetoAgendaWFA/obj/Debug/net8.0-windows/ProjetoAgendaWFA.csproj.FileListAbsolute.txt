@@ -1,0 +1,16 @@
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\bin\Debug\net8.0-windows\ProjetoAgendaWFA.exe
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\bin\Debug\net8.0-windows\ProjetoAgendaWFA.deps.json
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\bin\Debug\net8.0-windows\ProjetoAgendaWFA.runtimeconfig.json
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\bin\Debug\net8.0-windows\ProjetoAgendaWFA.dll
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\bin\Debug\net8.0-windows\ProjetoAgendaWFA.pdb
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\obj\Debug\net8.0-windows\ProjetoAgendaWFA.Form1.resources
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\obj\Debug\net8.0-windows\ProjetoAgendaWFA.csproj.GenerateResource.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\obj\Debug\net8.0-windows\ProjetoAgendaWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\obj\Debug\net8.0-windows\ProjetoAgendaWFA.AssemblyInfoInputs.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\obj\Debug\net8.0-windows\ProjetoAgendaWFA.AssemblyInfo.cs
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\obj\Debug\net8.0-windows\ProjetoAgendaWFA.csproj.CoreCompileInputs.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\obj\Debug\net8.0-windows\ProjetoAgendaWFA.dll
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\obj\Debug\net8.0-windows\refint\ProjetoAgendaWFA.dll
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\obj\Debug\net8.0-windows\ProjetoAgendaWFA.pdb
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\obj\Debug\net8.0-windows\ProjetoAgendaWFA.genruntimeconfig.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgendaWFA\ProjetoAgendaWFA\obj\Debug\net8.0-windows\ref\ProjetoAgendaWFA.dll
